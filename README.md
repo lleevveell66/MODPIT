@@ -20,10 +20,7 @@ Build your own modulation and pitch bend wheels into a small box for use where s
 	* [Hardware Components](#hardware-components)
 	* [Usage](#usage)
 	* [Other Ideas](#other-ideas)
-* [Requirements](#requirements)
 * [Build](#build)
-	* [Hardware](#hardware)
-	* [Software](#software)
 
 ## Description:
 [Table of Contents](#table-of-contents)
@@ -69,10 +66,11 @@ If it is no longer available when you read this, try searching for "MIDIPLUS AKM
 
 Basically, we are taking out and re-mounting the following:
 * Interface Board (Includes USB port and 1/4" sustain pedal jack)
-* Controller Board (This converts the controller movement into MIDI and sends to the Interface Board)
+* Controller Board (This converts the controller movement into MIDI and sends to the Interface Board.)
 * Pitch Bend Wheel
 * Modulation Wheel
-* All screws used to hold the above down will be re-used, if you are printing my box design.
+* All screws used to hold the above down will be re-used, if you are printing my box design
+* The USB cable is usable
 
 That's it.  The shell and all keys and circuits and cables and pads and screws are not used for this and could possibly be used for other projects.   We will need to remove a couple groups of the plastic keys and some of the underlying circuit board in order to get the rainbow cable which connects the Controller Board to the Interface Board freed up.
 
@@ -89,5 +87,27 @@ You will also need to either 3D print my custom box or come up with a project bo
 You are of course totally free to modify those to fit your hand better, etc.  I kept it very basic.
 
 
+### Usage:
 
+Simply plug one end of the USB cable into the back of the ModPit and the other into a USB port on your DAW device.  You can now use and record MIDI note pitch bends and modulation changes, either live or after you've lain down some notes.
 
+If you are going to use a sustain pedal via the 1/4" jack, you will need one that is capable of N.O. (Normally Open) operation to have an expected experience.
+
+### Other Ideas:
+
+I am currently working on clearing my electronics bench so that I can properly solder in a momentary switch into the sustain jack pads.  This switch will fit into the little cubby you see in the lid.  I am using the following switches from Amazon:
+
+https://www.amazon.com/dp/B09NKYG5YQ
+
+They currently cost $8USD for 10.  If this link does not work, try searching for "BOJACK Micro Limit Switch with Momentary Roller Lever Arm SPDT 1NO 1NC 3 Pins 5A 125 250VAC (Pack of 10 Pcs)".  Short of that, you may need to find your own and drill a new hole.
+
+Using this switch, it appears as though the NO and C pins will be used for this.  
+
+More details as I get this addition completed.
+
+You could also add any easily-triggered N.O. momentary switch you like to the side, or top, or wherever it allows you to easily trigger it, if that is something you wish to also have control of in the same hand.
+
+## Build:
+[Table of Contents](#table-of-contents)
+
+Please refer to the above YouTube video for complete instructions and a demonstration.
