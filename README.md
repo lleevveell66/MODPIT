@@ -69,12 +69,12 @@ If it is no longer available when you read this, try searching for "MIDIPLUS AKM
 
 Basically, we are taking out and re-mounting the following:
 * Interface Board (Includes USB port and 1/4" sustain pedal jack)
-* Controller Board This converts the controller movement into MIDI and sends to the Interface Board.
+* Controller Board (This converts the controller movement into MIDI and sends to the Interface Board)
 * Pitch Bend Wheel
 * Modulation Wheel
 * All screws used to hold the above down will be re-used, if you are printing my box design.
 
-That's it.  The shell and all keys and circuits and cables and pads and screws are not used for this and could possibly be used for other projects.   Will will need to remove a couple groups of the plastic keys and some of the underlying circuit board in order to get the rainbow cable which connects the Controller Board to the Interface Board freed up.
+That's it.  The shell and all keys and circuits and cables and pads and screws are not used for this and could possibly be used for other projects.   We will need to remove a couple groups of the plastic keys and some of the underlying circuit board in order to get the rainbow cable which connects the Controller Board to the Interface Board freed up.
 
 <h1 align="center"> 
   <img src="images/TinkerCAD.PNG" alt="TinkerCad Snap" width="60%" align="middle">
@@ -82,9 +82,9 @@ That's it.  The shell and all keys and circuits and cables and pads and screws a
 
 You will also need to either 3D print my custom box or come up with a project box or cigar box or tuna can or whatever else you might think will work for mounting and (most importantly) using all of this.  Here are the STD files which you can import into your slicer and 3D print:
 
-![[STL/ModPitTop.stl]]
+[ModPitTop.stl](STL/ModPitTop.stl)
 
-![[STL/ModPitBottom.stl]]
+[ModPitBottom.stl](STL/ModPitBottom.stl)
 
 You are of course totally free to modify those to fit your hand better, etc.  I kept it very basic.
 
