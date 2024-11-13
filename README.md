@@ -111,3 +111,7 @@ You could also add any easily-triggered N.O. momentary switch you like to the si
 [Table of Contents](#table-of-contents)
 
 Please refer to the above YouTube video for complete instructions and a demonstration.
+
+If you are going to build your own project box for this, the below section will detail all of the dimensions I found while making mine....
+
+MORE TO COME... it's all scribbled in notes.  Until then, you can certainly load up the STL files and get dimensions.
