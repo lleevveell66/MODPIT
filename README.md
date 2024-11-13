@@ -3,7 +3,7 @@
 <link rel="stylesheet" type="text/css" href="css/github.css"> 
  
 <h1 align="center"> 
-  <img src="modpitlogo.png" alt="ModPit Logo" width="50%" align="middle">
+  <img src="images/modpitlogo.png" alt="ModPit Logo" width="50%" align="middle">
 </h1> 
 
 
