@@ -31,7 +31,7 @@ There is no code involved, since the MIDI keyboard we use is ready to plug-n-pla
 
 This page was created to share the STL files, some dimensional details, and future enhancements (such as soldering that switch in for sustain).  If you would like to just watch my complete step-by-step instructional and demonstration video, it is available here:
 
-(NOT YET)
+[Instructional Video](https://www.youtube.com/watch?v=xuyAQrHJCjk)
 
 ### Why?:
 
