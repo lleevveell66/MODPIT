@@ -114,4 +114,8 @@ Please refer to the above YouTube video for complete instructions and a demonstr
 
 If you are going to build your own project box for this, the below section will detail all of the dimensions I found while making mine....
 
+<h1 align="center"> 
+  <img src="images/ModPitBoxTopDim_Blank.png" alt="Box Top Dimensions (Blank)" width="60%" align="middle">
+</h1> 
+
 MORE TO COME... it's all scribbled in notes.  Until then, you can certainly load up the STL files and get dimensions.
