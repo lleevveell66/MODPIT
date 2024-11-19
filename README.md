@@ -125,7 +125,7 @@ And the bottom, from the back:
   <img src="images/ModPitBoxBotDim_Filled.png" alt="Box Bottom Dimensions" width="60%" align="middle">
 </h1> 
 
-Just keep in mind that I made all walls 3mm in thickness.  Mind an measurements relative to that.   These should give you enough to figure out where to cut your holes, though.  I presume that you will be using brass mounting posts and screws, so I did not bother giving the exact mounting hole widths, post heights, etc.
+Just keep in mind that I made all walls 3mm in thickness.  Mind any measurements relative to that.   These should give you enough to figure out where to cut your holes, though.  I presume that you will be using brass or nylon mounting posts and screws, so I did not bother giving the exact mounting hole widths, post heights, etc.
 
 I hope this helps!  
 
