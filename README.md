@@ -21,6 +21,7 @@ Build your own modulation and pitch bend wheels into a small box for use where s
 	* [Usage](#usage)
 	* [Other Ideas](#other-ideas)
 * [Build](#build)
+* [Donations](#donations)
 
 ## Description:
 [Table of Contents](#table-of-contents)
@@ -112,10 +113,25 @@ You could also add any easily-triggered N.O. momentary switch you like to the si
 
 Please refer to the above YouTube video for complete instructions and a demonstration.
 
-If you are going to build your own project box for this, the below section will detail all of the dimensions I found while making mine....
+If you are going to build your own project box for this, the below section will detail all of the dimensions I found while making mine.  All dimensions are in millimeters (mm).
 
+This is the top, from underneath:
 <h1 align="center"> 
-  <img src="images/ModPitBoxTopDim_Blank.png" alt="Box Top Dimensions (Blank)" width="60%" align="middle">
+  <img src="images/ModPitBoxTopDim_Filled.png" alt="Box Top Dimensions" width="60%" align="middle">
 </h1> 
 
-MORE TO COME... it's all scribbled in notes.  Until then, you can certainly load up the STL files and get dimensions.
+And the bottom, from the back:
+<h1 align="center"> 
+  <img src="images/ModPitBoxBotDim_Filled.png" alt="Box Bottom Dimensions" width="60%" align="middle">
+</h1> 
+
+Just keep in mind that I made all walls 3mm in thickness.  Mind an measurements relative to that.   These should give you enough to figure out where to cut your holes, though.  I presume that you will be using brass mounting posts and screws, so I did not bother giving the exact mounting hole widths, post heights, etc.
+
+I hope this helps!  
+
+## Donations:
+[Table of Contents](#table-of-contents)
+
+Donations accepted.  You can buy me a coffee here: 
+
+https://buymeacoffee.com/sixthlevel
