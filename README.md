@@ -87,6 +87,18 @@ You will also need to either 3D print my custom box or come up with a project bo
 
 You are of course totally free to modify those to fit your hand better, etc.  I kept it very basic.
 
+NEW DESIGN!
+
+I have rounded over the edges on this box to make it more comfortable to lay your hand on.
+
+<h1 align="center"> 
+  <img src="images/ModPitBoxRounded.png" alt="ModPit Box with Rounded Edges" width="60%" align="middle">
+</h1> 
+
+[ModPitTopRounded.stl](STL/ModPitTopRounded.stl)
+
+[ModPitBottomRounded.stl](STL/ModPitBottomRounded.stl)
+
 
 ### Usage:
 
