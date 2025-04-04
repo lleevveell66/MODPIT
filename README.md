@@ -65,6 +65,14 @@ https://www.amazon.com/dp/B00VHKMK64
 
 If it is no longer available when you read this, try searching for "MIDIPLUS AKM320 USB MIDI Keyboard Controller, Black, 32-key".   If you still have no luck, I would wager there are others that this is possible to build with.  You will just need to come up with your own project box or tin can or whatever for mounting.
 
+NEW NOTE!  There are clones of this keyboard in the wild.  This raises the chances that you can find one used and much cheaper.  Here are the known clones, so far:
+* Miditech i2 Mini 32 Keyboard - Black, MIT-00170
+  * https://www.amazon.com/Miditech-i2-mini-MIDI-Keyboard-Controller/dp/B00UB5GYF4
+  * Thanks to @rengew8606 for finding this one!
+* MIDIPLUS AKM320 USB MIDI Keyboard Controller, Black, 32-key
+  * https://www.amazon.com/dp/B00VHKMK64
+  * (Original that I use, here)
+
 Basically, we are taking out and re-mounting the following:
 * Interface Board (Includes USB port and 1/4" sustain pedal jack)
 * Controller Board (This converts the controller movement into MIDI and sends to the Interface Board.)
